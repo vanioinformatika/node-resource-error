@@ -1,0 +1,1 @@
+{"version":3,"file":"ResourceConcurrentlyModifiedError.js","sourceRoot":"","sources":["../src/ResourceConcurrentlyModifiedError.ts"],"names":[],"mappings":"AAAA,OAAO,EAAC,iBAAiB,EAAC,MAAM,qBAAqB,CAAA;AAGrD;;GAEG;AACH,MAAM,wCAAyC,SAAQ,iBAAiB;IACpE,YAAY,IAAY,EAAE,IAAuB;QAC7C,KAAK,CAAC,uBAAuB,EAAE,IAAI,EAAE,IAAI,CAAC,CAAA;IAC9C,CAAC;CACJ"}

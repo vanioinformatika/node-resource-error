@@ -10,7 +10,7 @@ export class BaseResourceError extends Error {
         return this.data.hasOwnProperty("message");
     }
     getMessage() {
-        return this.hasMessage() ? this.data.message : null;
+        return this.hasMessage() ? this.data.message : undefined;
     }
 }
 //# sourceMappingURL=BaseResourceError.js.map

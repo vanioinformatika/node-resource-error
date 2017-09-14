@@ -4,5 +4,5 @@ export declare class BaseResourceError extends Error {
     readonly data: ResourceErrorData;
     constructor(action: string, type: string, data: ResourceErrorData);
     hasMessage(): boolean;
-    getMessage(): string | null;
+    getMessage(): string | undefined;
 }
