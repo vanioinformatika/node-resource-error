@@ -1,0 +1,1 @@
+{"version":3,"file":"ResourceValidationError.js","sourceRoot":"","sources":["../src/ResourceValidationError.ts"],"names":[],"mappings":"AAAA,OAAO,EAAC,iBAAiB,EAAC,MAAM,qBAAqB,CAAA;AAGrD,MAAM,8BAA+B,SAAQ,iBAAiB;IAC1D,YAAY,IAAY,EAAE,IAAuB;QAC7C,KAAK,CAAC,cAAc,EAAE,IAAI,EAAE,IAAI,CAAC,CAAA;IACrC,CAAC;CACJ"}
