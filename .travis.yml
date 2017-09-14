@@ -9,4 +9,4 @@ jobs:
   include:
     - stage: code quality
       script: npm run coverage:ci
-    - script: npm run tslint
+    - script: npm run lint
